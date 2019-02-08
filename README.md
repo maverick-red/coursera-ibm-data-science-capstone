@@ -1,1 +1,10 @@
-# coursera-ibm-capstone
+# IBM Applied Data Scienec Capstone
+
+## Introduction
+In the current real estate market, it’s estimated that almost half of the current housing market are millennials with 90% of those being renters. ([1](https://www.appfolio.com/blog/2014/08/10-things-you-need-to-know-about-the-millennial-renter-infographic)) When it comes to renting or buying a house, there are many factors that need to be considered before a decision can be taken. These issues are compounded when one has only online data and reviews from other people - reviews which might not reflect an entirely unbiased and objective evaluation and further complicated if the move is from a different city, state or even country.
+
+Two factors that have a significant influence are the location of essential services and businesses in the vicinity of the property and the general safety of the neighborhood. Typically, websites listing properties for rent only display features confined to the property itself - rental price, carpet area, number of bedrooms, bathrooms, unit ameneties, etc. While these are primary motivators for renters, any additional information about the neighborhood and its offerings can only be learned by searching mutiple websites. Again, this information would likely still be missing safety information, and is typically restricted to intuition-based summaries and anecdotes. 
+
+This project attempts to unify the two major secondary motivators - neighborhood amenities and safety information to provide a potential renter with all the pertinent tools to make an informed decision. The focuss of this project is on the city of Los Angeles, California. The Foursquare API will be our primary source for the former, to obtain a list of popular venues in every neighborhood in a city including restaurants, bars, and entertainment venues. The safety information will be obtained through crime records from open sourced data provided by the city. 
+
+The neighborhood information will be displayed on an interactive map overlayed with recorded criminal activity around the venues. The integration of rental property listings as well as public transit information will be pursued as future avenues of work.
