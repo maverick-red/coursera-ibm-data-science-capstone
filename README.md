@@ -1,4 +1,4 @@
-# IBM Applied Data Scienec Capstone
+# IBM Applied Data Science Capstone
 
 ## Introduction
 In the current real estate market, it’s estimated that almost half of the current housing market are millennials with 90% of those being renters. ([1](https://www.appfolio.com/blog/2014/08/10-things-you-need-to-know-about-the-millennial-renter-infographic)) When it comes to renting or buying a house, there are many factors that need to be considered before a decision can be taken. These issues are compounded when one has only online data and reviews from other people - reviews which might not reflect an entirely unbiased and objective evaluation and further complicated if the move is from a different city, state or even country.
