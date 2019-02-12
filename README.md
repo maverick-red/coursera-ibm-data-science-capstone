@@ -195,9 +195,3 @@ Future work, outside of the scope of this project, will be pursued. This include
 - Rental Property data - Show rental pricing information for a neighborhood. Similar neighborhoods in terms of price, ameneties and proximity to businesses can be discovered using Unsupervised Learning methods, affording the user multiple choices, if possible.
 - Public Transit data - Properties and businesses with a close proximity to public transit facilities often rank higher on various metrics, such as Walkscore. Using the LA Metro API, we can integrate this information to show a time-stamped availability of public transit services in the proximity of a property or business.
 - Improved Recommendations - With more time to fetch individual venue ratings from the Foursquare API, it would be possible to show the user the top rated venues in each neighborhood as well as learn the user's preferences and suggest more relevant venues.
-
-
-
-This project attempts to unify the two major secondary motivators - neighborhood amenities and safety information to provide a potential renter with all the pertinent tools to make an informed decision. The focuss of this project is on the city of Los Angeles, California. The Foursquare API will be our primary source for the former, to obtain a list of popular venues in every neighborhood in a city including restaurants, bars, and entertainment venues. The safety information will be obtained through crime records from open sourced data provided by the city. 
-
-The neighborhood information will be displayed on an interactive map overlayed with recorded criminal activity around the venues. The integration of rental property listings as well as public transit information will be pursued as future avenues of work.
